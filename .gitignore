@@ -1,0 +1,14 @@
+# Local temporary directories
+localappdata/
+appdata/
+pub_cache/
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+**/bin/
+**/obj/
+**/build/
+**/.dart_tool/
